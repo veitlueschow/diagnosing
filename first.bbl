@@ -1,0 +1,181 @@
+\begin{thebibliography}{30}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\renewcommand{\UrlFont}{\rmfamily}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Abernathey and Marshall(2013)Abernathey, and
+  Marshall}]{Abernathey2013}
+Abernathey, R.~P., and J.~Marshall, 2013: {Global surface eddy diffusivities
+  derived from satellite altimetry}. \textit{Journal of Geophysical Research:
+  Oceans}, \textbf{118}, 901--916.
+
+\bibitem[{B{\"{o}}ning et~al.(1991)B{\"{o}}ning, D{\"{o}}scher,, and
+  Budich}]{Boning}
+B{\"{o}}ning, C.~W., R.~D{\"{o}}scher, and R.~G. Budich, 1991: {Seasonal
+  Transport Variation in the Western Subtropical North Atlanitc: Experiments
+  with an Eddy-resolving Model}. \textit{Journal of Physical Oceanography},
+  \textbf{21(9)}, 1271--1289.
+
+\bibitem[{Bower et~al.(2009)Bower, Lozier, Gary,, and B{\"{o}}ning}]{Bower2009}
+Bower, A.~S., M.~S. Lozier, S.~F. Gary, and C.~W. B{\"{o}}ning, 2009: {Interior
+  pathways of the North Atlantic meridional overturning circulation}.
+  \textit{Nature}, \textbf{459}, 243--247.
+
+\bibitem[{Broecker(1991)}]{Broecker1991}
+Broecker, W.~S., 1991: {The Great Ocean Conveyor}. \textit{Oceanography},
+  \textbf{4}, 79--89.
+
+\bibitem[{Bryden et~al.(2005{\natexlab{a}})Bryden, Johns,, and
+  Saunders}]{Bryden2005a}
+Bryden, H., W.~Johns, and P.~Saunders, 2005{\natexlab{a}}: {Deep western
+  boundary current east of Abaco: mean structure and transport}.
+  \textit{Journal of Marine Research}, \textbf{63}, 35--57.
+
+\bibitem[{Bryden et~al.(2005{\natexlab{b}})Bryden, Longworth,, and
+  Cunningham}]{Bryden2005}
+Bryden, H.~L., H.~R. Longworth, and S.~A. Cunningham, 2005{\natexlab{b}}:
+  {Slowing of the Atlantic meridional overturning circulation at 25$^\circ$ N}.
+  \textit{Nature}, \textbf{438}, 655--657.
+
+\bibitem[{Dengler et~al.(2004)Dengler, Schott, Eden, Brandt, Fischer,, and
+  Zantopp}]{Dengler2004}
+Dengler, M., F.~A. Schott, C.~Eden, P.~Brandt, J.~Fischer, and R.~J. Zantopp,
+  2004: {Break-up of the Atlantic deep western boundary current into eddies at
+  8$^\circ$ S}. \textit{Nature}, \textbf{432}, 1018--1020.
+
+\bibitem[{Eden et~al.(2007)Eden, Greatbatch,, and Willebrand}]{Eden2007}
+Eden, C., R.~J. Greatbatch, and J.~Willebrand, 2007: {A Diagnosis of Thickness
+  Fluxes in an Eddy-Resolving Model}. \textit{Journal of Physical
+  Oceanography}, \textbf{37}, 727--742.
+
+\bibitem[{Ferrari et~al.(2016)Ferrari, Mashayek, McDougall, Nikurashin,, and
+  Campin}]{Ferrari2016}
+Ferrari, R., A.~Mashayek, T.~J. McDougall, M.~Nikurashin, and J.-M. Campin,
+  2016: {Turning Ocean Mixing Upside Down}. \textit{Journal of Physical
+  Oceanography}, \textbf{46}, 2239--2261.
+
+\bibitem[{Fischer and Schott(2002)Fischer, and Schott}]{Fischer2002}
+Fischer, J., and F.~A. Schott, 2002: {Labrador Sea Water Tracked by Profiling
+  Floats — From the Boundary Current into the Open North Atlantic}.
+  \textit{Journal of Physical Oceanography}, \textbf{32(2)}, 573--584.
+
+\bibitem[{Fox-Kemper et~al.(2003)Fox-Kemper, Ferrari,, and
+  Pedlosky}]{Fox-Kemper2003}
+Fox-Kemper, B., R.~Ferrari, and J.~Pedlosky, 2003: {On the Indeterminacy of
+  Rotational and Divergent Eddy Fluxes*}. \textit{Journal of Physical
+  Oceanography}, \textbf{33}, 478--483.
+
+\bibitem[{Gent et~al.(1995)Gent, Willebrand, McDougall,, and
+  McWilliams}]{Gent1995}
+Gent, P.~R., J.~Willebrand, T.~J. McDougall, and J.~C. McWilliams, 1995:
+  {Parameterizing Eddy-Induced Tracer Transports in Ocean Circulation Models}.
+  \textit{Journal of Physical Oceanography}, \textbf{25(4)}, 463--474.
+
+\bibitem[{Griesel et~al.(2014)Griesel, McClean, Gille, Sprintall,, and
+  Eden}]{Griesel2014}
+Griesel, A., J.~L. McClean, S.~T. Gille, J.~Sprintall, and C.~Eden, 2014:
+  {Eulerian and Lagrangian Isopycnal Eddy Diffusivities in the Southern Ocean
+  of an Eddying Model}. \textit{Journal of Physical Oceanography}, \textbf{44},
+  644--661.
+
+\bibitem[{Jayne and Marotzke(2002)Jayne, and Marotzke}]{Jayne2002}
+Jayne, S.~R., and J.~Marotzke, 2002: {The Oceanic Eddy Heat Transport}.
+  \textit{Journal of Physical Oceanography}, \textbf{32}, 3328--3345.
+
+\bibitem[{Johns et~al.(2008)Johns, Beal, Baringer, Molina, Cunningham, Kanzow,,
+  and Rayner}]{Johns2008}
+Johns, W., L.~Beal, M.~Baringer, J.~Molina, S.~Cunningham, T.~Kanzow, and
+  D.~Rayner, 2008: {Variability of shallow and deep western boundary currents
+  off the Bahamas during 2004–05: results from the 26°N RAPID–MOC Array}.
+  \textit{Journal of Physical Oceanography}, \textbf{38}, 605--623.
+
+\bibitem[{Kanzow et~al.(2006)Kanzow, Send, Zenk, Chave,, and
+  Rhein}]{Kanzow2006}
+Kanzow, T., U.~Send, W.~Zenk, A.~D. Chave, and M.~Rhein, 2006: {Monitoring the
+  integrated deep meridional flow in the tropical North Atlantic: Long-term
+  performance of a geostrophic array}. \textit{Deep-Sea Research Part I:
+  Oceanographic Research Papers}, \textbf{53}, 528--546.
+
+\bibitem[{Lee et~al.(1996)Lee, Johns, Zantopp,, and Fillenbaum}]{Lee1996}
+Lee, T.~N., W.~E. Johns, R.~J. Zantopp, and E.~R. Fillenbaum, 1996: {Moored
+  Observations of Western Boundary Current Variability and Thermohaline
+  Circulation at 26.5$^\circ$N in the Subtropical North Atlantic}. 962--983 pp.
+
+\bibitem[{Lorenz(1955)}]{Lorenz1955}
+Lorenz, E.~N., 1955: {Available Potential Energy and the Maintenance of the
+  General Circulation}. \textit{Tellus}, \textbf{7}, 157--167.
+
+\bibitem[{Lozier(2010)}]{Lozier2010}
+Lozier, M.~S., 2010: {Deconstructing the conveyor belt}. \textit{Science},
+  \textbf{328}, 1507--1511.
+
+\bibitem[{Marshall and Shutts(1981)Marshall, and Shutts}]{Marshall1981}
+Marshall, J., and G.~Shutts, 1981: {A Note on Rotational and Divergent Eddy
+  Fluxes}. 1677--1680 pp.
+
+\bibitem[{Meinen et~al.(2006)Meinen, Baringer,, and Garzoli}]{Meinen2006}
+Meinen, C.~S., M.~O. Baringer, and S.~L. Garzoli, 2006: {Variability in deep
+  Western boundary current transports: Preliminary results from 26.5$^/circ$N
+  in the Atlantic}. \textit{Geophysical Research Letters}, \textbf{33}, 1--5.
+
+\bibitem[{Meinen et~al.(2013)Meinen, Johns, Garzoli, van Sebille, Rayner,
+  Kanzow,, and Baringer}]{Meinen2013}
+Meinen, C.~S., W.~E. Johns, S.~L. Garzoli, E.~van Sebille, D.~Rayner,
+  T.~Kanzow, and M.~O. Baringer, 2013: {Variability of the Deep Western
+  Boundary Current at 26.5$^\circ$N during 2004-2009}. \textit{Deep-Sea
+  Research Part II: Topical Studies in Oceanography}, \textbf{85}, 154--168.
+
+\bibitem[{Schott et~al.(2002)Schott, Brandt, Hamann, Fischer,, and
+  Stramma}]{Schott2002}
+Schott, F.~A., P.~Brandt, M.~Hamann, J.~Fischer, and L.~Stramma, 2002: {On the
+  boundary flow off Brazil at 5-10°S and its connection to the interior
+  tropical Atlantic}. \textit{Geophysical Research Letters}, \textbf{29},
+  21--1--21--4.
+
+\bibitem[{Schott et~al.(2005)Schott, Dengler, Zantopp, Stramma, Fischer,, and
+  Brandt}]{Schott2005}
+Schott, F.~a., M.~Dengler, R.~Zantopp, L.~Stramma, J.~Fischer, and P.~Brandt,
+  2005: {The Shallow and Deep Western Boundary Circulation of the South
+  Atlantic at 5°–11°S}. \textit{Journal of Physical Oceanography},
+  \textbf{35}, 2031--2053.
+
+\bibitem[{Sijp et~al.(2012)Sijp, Gregory, Tailleux,, and Spence}]{Sijp2012}
+Sijp, W.~P., J.~M. Gregory, R.~Tailleux, and P.~Spence, 2012: {The Key Role of
+  the Western Boundary in Linking the AMOC Strength to the North–South
+  Pressure Gradient}. \textit{Journal of Physical Oceanography}, \textbf{42},
+  628--643.
+
+\bibitem[{Stommel and Arons(1959)Stommel, and Arons}]{Stommel1959}
+Stommel, H., and A.~Arons, 1959: {On the abyssal circulation of the world
+  ocean—I. Stationary planetary flow patterns on a sphere}. \textit{Deep Sea
+  Research (1953)}, \textbf{6}, 140--154.
+
+\bibitem[{Swallow and Worthington(1961)Swallow, and Worthington}]{Swallow1961}
+Swallow, J., and L.~Worthington, 1961: {An observation of a deep countercurrent
+  in the Western North Atlantic}. \textit{Deep Sea Research (1953)},
+  \textbf{8}, 1IN1--19IN3.
+
+\bibitem[{Treguier(1999)}]{Treguier1999}
+Treguier, a.~M., 1999: {Evaluating eddy mixing coefficients from eddy-resolving
+  ocean models: A case study}. \textit{Journal of Marine Research},
+  \textbf{57}, 89--108.
+
+\bibitem[{von Storch et~al.(2012)von Storch, Eden, Fast, Haak,
+  Hern{\'{a}}ndez-Deckers, Maier-Reimer, Marotzke,, and Stammer}]{Storch2012}
+von Storch, J.-S., C.~Eden, I.~Fast, H.~Haak, D.~Hern{\'{a}}ndez-Deckers,
+  E.~Maier-Reimer, J.~Marotzke, and D.~Stammer, 2012: {An Estimate of the
+  Lorenz Energy Cycle for the World Ocean Based on the STORM/NCEP Simulation}.
+  \textit{Journal of Physical Oceanography}, \textbf{42}, 2185--2205.
+
+\bibitem[{Weatherly et~al.(2000)Weatherly, Kim,, and Kontar}]{Weatherly2000}
+Weatherly, G., Y.~Y. Kim, and E.~A. Kontar, 2000: {Eulerian Measurements of the
+  North Atlantic Deep Water Deep Western Boundary Current at 18° S}.
+  \textit{Journal of Physical Oceanography}, \textbf{30}, 971--986.
+
+\end{thebibliography}

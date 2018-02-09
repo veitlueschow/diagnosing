@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: first.aux
+The style file: ametsoc2014.bst
+Database file #1: refs.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--missing publisher in Lee1996
+Warning--missing publisher in Marshall1981
+You've used 30 entries,
+            3493 wiz_defined-function locations,
+            894 strings with 10884 characters,
+and the built_in function-call counts, 36164 in all, are:
+= -- 4413
+> -- 1280
+< -- 10
++ -- 755
+- -- 321
+* -- 1824
+:= -- 3557
+add.period$ -- 60
+call.type$ -- 30
+change.case$ -- 257
+chr.to.int$ -- 29
+cite$ -- 32
+duplicate$ -- 3687
+empty$ -- 1768
+format.name$ -- 389
+if$ -- 7343
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 343
+newline$ -- 101
+num.names$ -- 120
+pop$ -- 1584
+preamble$ -- 1
+purify$ -- 227
+quote$ -- 0
+skip$ -- 2386
+stack$ -- 0
+substring$ -- 1776
+swap$ -- 3082
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 270
+warning$ -- 2
+while$ -- 176
+width$ -- 0
+write$ -- 338
+(There were 2 warnings)
